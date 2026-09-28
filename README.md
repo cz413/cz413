@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="cz413 — tools for clearer research and development workflows" width="100%">
+</p>
 
-<!--
-**cz413/cz413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">cz413</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  把复杂的开发流程，做成顺手的工具。<br>
+  <sub>I build practical software for research and developer workflows.</sub>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/cz413/LabDeck">LabDeck</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/cz413/juyixiaoxiang">Vue project</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/cz413/Plants-Vs-Zombies">Java project</a>
+</p>
+
+---
+
+### Currently building
+
+**[LabDeck](https://github.com/cz413/LabDeck)** — a local-first Windows desktop workspace for lab servers and GPUs. Monitor resources, find candidate GPUs, connect over SSH, and move files with SFTP, all from one place.
+
+### What I work with
+
+`TypeScript` · `React` · `Electron` · `Java` · `Vue`
+
+I enjoy turning real workflow friction into focused software: clear status, fewer context switches, and tools that fit the way people already work.
+
+---
+
+<p align="center"><sub>Research tools · Developer workflows · Thoughtful software</sub></p>
