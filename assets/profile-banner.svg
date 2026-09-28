@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="300" viewBox="0 0 1120 300" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">cz413</title>
+  <desc id="desc">A dark blue banner about making research and developer workflows clearer, with connected server, GPU, and SSH panels.</desc>
+  <defs>
+    <linearGradient id="bg" x1="72" y1="24" x2="1048" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#0A1220"/><stop offset="0.58" stop-color="#111F32"/><stop offset="1" stop-color="#102A32"/></linearGradient>
+    <linearGradient id="accent" x1="90" y1="0" x2="510" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#7DE6C1"/><stop offset="1" stop-color="#56A8FF"/></linearGradient>
+    <linearGradient id="card" x1="700" y1="62" x2="1054" y2="247" gradientUnits="userSpaceOnUse"><stop stop-color="#17283B"/><stop offset="1" stop-color="#122735"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(271 0 0 202 1016 44)" gradientUnits="userSpaceOnUse"><stop stop-color="#4DC6A0" stop-opacity=".19"/><stop offset="1" stop-color="#4DC6A0" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#D7E9FF" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1120" height="300" rx="22" fill="url(#bg)"/><rect width="1120" height="300" rx="22" fill="url(#grid)"/><rect width="1120" height="300" rx="22" fill="url(#glow)"/>
+  <path d="M32 0H8a8 8 0 0 0-8 8v284a8 8 0 0 0 8 8h24V0Z" fill="url(#accent)"/>
+  <g font-family="Inter, Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="66" y="59" fill="#91A8BC" font-size="12" font-weight="700" letter-spacing="2.8">CZ413  /  SOFTWARE &amp; SYSTEMS</text>
+    <text x="66" y="121" fill="#F2F7FB" font-size="34" font-weight="700">让工作流，变得清晰顺手。</text>
+    <text x="68" y="157" fill="#B5C5D5" font-size="16">Building practical tools for research and developer workflows.</text>
+    <rect x="66" y="197" width="8" height="8" rx="4" fill="#7DE6C1"/><text x="85" y="205" fill="#D5E2EC" font-size="13" font-weight="600" letter-spacing=".6">CURRENT FOCUS</text>
+    <text x="66" y="242" fill="#F2F7FB" font-size="23" font-weight="700">LabDeck</text><text x="164" y="242" fill="#8FA5B9" font-size="14">A calmer workspace for lab servers &amp; GPUs</text>
+  </g>
+  <g transform="translate(727 55)">
+    <rect width="330" height="190" rx="18" fill="url(#card)" stroke="#A8C6D9" stroke-opacity=".16"/><text x="22" y="30" fill="#8298AC" font-family="Inter, Segoe UI, sans-serif" font-size="10" font-weight="700" letter-spacing="1.9">ONE WORKSPACE</text>
+    <path d="M30 70H91M30 118H91M91 70V118M91 94H129" stroke="#67D5B1" stroke-opacity=".68" stroke-width="1.5"/><circle cx="30" cy="70" r="4" fill="#7DE6C1"/><circle cx="30" cy="118" r="4" fill="#7DE6C1"/><circle cx="91" cy="94" r="5" fill="#56A8FF"/>
+    <rect x="130" y="52" width="174" height="34" rx="9" fill="#1C3348" stroke="#8EB5CE" stroke-opacity=".15"/><rect x="143" y="63" width="12" height="12" rx="3" fill="#56A8FF" fill-opacity=".22"/><path d="M147 67h4v4h-4z" fill="#80BEFF"/><text x="164" y="74" fill="#DCE9F2" font-family="Inter, Segoe UI, sans-serif" font-size="12" font-weight="600">SERVER STATUS</text>
+    <rect x="130" y="101" width="174" height="34" rx="9" fill="#1C3348" stroke="#8EB5CE" stroke-opacity=".15"/><rect x="143" y="112" width="12" height="12" rx="3" fill="#7DE6C1" fill-opacity=".18"/><path d="M147 115h4v6h-4z" fill="#7DE6C1"/><text x="164" y="123" fill="#DCE9F2" font-family="Inter, Segoe UI, sans-serif" font-size="12" font-weight="600">GPU OVERVIEW</text>
+    <rect x="130" y="150" width="174" height="24" rx="7" fill="#0D1A29"/><circle cx="145" cy="162" r="3" fill="#7DE6C1"/><text x="156" y="166" fill="#A8BBCB" font-family="Consolas, monospace" font-size="10">ssh  ·  sftp  ·  local-first</text>
+  </g>
+</svg>
