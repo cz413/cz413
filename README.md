@@ -24,10 +24,40 @@ Researching:
 
 Building:
   └─ LabDeck — a local-first workspace for lab servers & GPUs
+```
 
-```md
-## Contribution Skyline
+### `$ cat research.txt`
+
+- 🩻 **Medical Vision** — medical image understanding and segmentation
+- 🧠 **Reasoning Segmentation** — reasoning-aware visual segmentation
+- 🤖 **Multimodal LLMs** — vision-language reasoning and grounding
+
+### `$ ls ~/projects`
+
+#### 🖥️ [LabDeck](https://github.com/cz413/LabDeck)
+
+A local-first workspace for managing lab servers and GPUs.
+
+`GPU Monitoring` · `SSH` · `SFTP` · `Remote Development`
+
+---
+
+### `$ cat stack.txt`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,vue,electron,java,linux,docker,git" />
+</p>
+
+---
+
+### `$ git log --graph`
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Research tools · Developer workflows · Thoughtful software</sub>
 </p>
